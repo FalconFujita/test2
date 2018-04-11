@@ -1,5 +1,27 @@
-# this git is test  
-test code
+test repository
+====
 
-## test
-> test
+Overview
+
+## Description
+test how to use github for me
+
+## Demo
+
+## Requirement
+
+## Usage
+
+## Install
+
+## Licence
+
+## Author
+
+### Document  
+
+### Ticket  
+
+### Deploy  
+
+### Test  
