@@ -6,7 +6,12 @@ Overview
 ## Description
 test how to use github for me
 
-## Demo
+## Updata
+$ git clone
+
+$ git add -A
+$ git commit -m"text"
+$ git push origin master
 
 ## Requirement
 
