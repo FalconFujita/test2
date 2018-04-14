@@ -7,7 +7,7 @@ Overview
 test how to use github for me
 
 ## Updata
-$ git clone
+$ git clone https://github.com/hayatofalcon/test.git  
 
 $ git add -A  
 $ git commit -m"text"  
